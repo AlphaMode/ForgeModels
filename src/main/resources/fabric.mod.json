@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.minecraftforge.client.model.ExampleMod"
     ]
   },
   "mixins": [
@@ -32,6 +32,7 @@
     "minecraft": "1.17.x",
     "java": ">=16"
   },
+  "accessWidener": "forge.aw",
   "suggests": {
     "another-mod": "*"
   }

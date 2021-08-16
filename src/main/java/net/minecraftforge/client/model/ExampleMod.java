@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package net.minecraftforge.client.model;
 
 import net.fabricmc.api.ModInitializer;
 
